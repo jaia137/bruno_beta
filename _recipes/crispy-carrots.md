@@ -5,24 +5,52 @@ title:  "Crispy Carrots"
 image: crispy-carrots.jpg
 tags: veg, party
 
-ingredients:
-- 1 lb carrot sticks (or baby carrots)
-- 2 oranges (or any citrus)
-- 2 tbsp butter
-- 1 package phyllo dough
-- 1/2 cup honey
-- sesame seeds to top
-- vegetable oil
+### ingredients:
 
-directions:
-- Start by parboiling your carrots in 2 cups of water (means party boil).
-- Zest and juice the oranges.
-- When the carrots are jussst soft, drain the water. Add the butter, the zest, and the orange juice. Simmer until thick and declious. It's fine (and good) if the carrots are still a bit undercooked (we're going to bake them next).
-- Unroll the phyllo dough and cut it into three equal sections. With a brush, oil the top of each sheet.
-- Roll a carrot with a single section of phyllow dough, place on a baking sheet. Repeat and repeat and repeat.
-- When a full baking sheet is ready, brush the top of each roll with a little oil. Don't worry about placing them too far about, they won't raise much (at all).
-- Bake according to your phyllo dough box.
-- With 5 minutes left, brush the top of each roll with honey, then sprinkle with sesame seeds.
+- 2 - 3 tablespoon vegetable oil
+- 1 teaspoon salt, more to taste
+- 1 teaspoon  chili powder
+- 1 teaspoon coriander powder
+- 1/4 teaspoon black pepper powder
+- 1/2 teaspoon garam masala
+- 1 teaspoon fenugreek leaves, lightly crushed
+- 5-6 strands saffron
+- 1/8 teaspoon green cardamom powder
+- 2 green cardamons
+- 2 cloves
+- 1/2 - 1 inch cinnamon stick
+- 1 bay leaf (optional)
+- 1 large onion
+- 1-2 garlic
+- 1 green chili
+- 1 inch ginger
+- 1 cup chopped or crushed tomato
+- 1 cup water
+- 1/4 - 1/2 cup of soaked and crushed cashews or 2-4 tablespoons of cashew paste
+- 250-400 g fresh paneer cubed
+- 3-4 tablespoon cream 
+- fresh cilantro
+
+### instructions:
+- fry spices
+- add chopped onions, fry until golden
+- add garlic and chilies, make paste
+- add tomatoes, water and ginger, cook for 30+ minutes
+- add cashews, blend the sauce,  cook for some minutes
+- fry paneer cubes in separate pan, add paneers to sauce
+- add cream, salt, and fresh cilantro to finish
+- serve with rice or naan
+
+### chef bruno's pro tips:
+
+- cook the tomato base longer for favourable taste (sugo style) and texture
+- use soft tofu for a vegan variant
+
+### prepration time: 30+'
+
+### source
+
+https://www.spiceupthecurry.com/shahi-paneer-recipe-restaurant-style/
 
 ---
 
