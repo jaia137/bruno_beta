@@ -5,7 +5,7 @@ title:  "Crispy Carrots"
 image: crispy-carrots.jpg
 tags: veg, party
 
-### ingredients:
+ingredients:
 
 - 2 - 3 tablespoon vegetable oil
 - 1 teaspoon salt, more to taste
@@ -31,7 +31,7 @@ tags: veg, party
 - 3-4 tablespoon cream 
 - fresh cilantro
 
-### instructions:
+instructions:
 - fry spices
 - add chopped onions, fry until golden
 - add garlic and chilies, make paste
@@ -41,14 +41,14 @@ tags: veg, party
 - add cream, salt, and fresh cilantro to finish
 - serve with rice or naan
 
-### chef bruno's pro tips:
+chef bruno's pro tips:
 
 - cook the tomato base longer for favourable taste (sugo style) and texture
 - use soft tofu for a vegan variant
 
-### prepration time: 30+'
+prepration time: 30+'
 
-### source
+source:
 
 https://www.spiceupthecurry.com/shahi-paneer-recipe-restaurant-style/
 
