@@ -30,7 +30,7 @@ ingredients:
 - 3-4 tablespoon cream 
 - fresh cilantro
 
-instructions:
+directions:
 - fry spices
 - add chopped onions, fry until golden
 - add garlic and chilies, make paste
