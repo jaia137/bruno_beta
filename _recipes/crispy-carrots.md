@@ -6,7 +6,6 @@ image: crispy-carrots.jpg
 tags: veg, party
 
 ingredients:
-
 - 2 - 3 tablespoon vegetable oil
 - 1 teaspoon salt, more to taste
 - 1 teaspoon  chili powder
@@ -41,17 +40,13 @@ instructions:
 - add cream, salt, and fresh cilantro to finish
 - serve with rice or naan
 
-chef bruno's pro tips:
+---
 
+chef bruno's pro tips:
 - cook the tomato base longer for favourable taste (sugo style) and texture
 - use soft tofu for a vegan variant
 
 prepration time: 30+'
 
 source:
-
 https://www.spiceupthecurry.com/shahi-paneer-recipe-restaurant-style/
-
----
-
-This is another recipe we saw on Jamie Oliver's TV show, and we can't stop making it. It's perfect for parties, and pairs well with any rich dip (we've been doing greek yogurt topped with hot sauce and tahini). We've also rolled things other than carrots, changed the flavors, made news dips— go wild!
