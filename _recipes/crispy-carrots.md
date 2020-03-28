@@ -31,7 +31,7 @@ ingredients:
 - fresh cilantro
 
 directions:
-- fry spices
+- fry spices, crack cardamoms open
 - add chopped onions, fry until golden
 - add garlic and chilies, make paste
 - add tomatoes, water and ginger, cook for 30+ minutes
