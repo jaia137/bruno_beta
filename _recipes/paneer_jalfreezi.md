@@ -14,7 +14,7 @@ ingredients:
 - 1/4 teaspoon turmeric powder
 - 1 teaspoon lemon juice
 - 1 bay leaf (optional)
-- 1 large onion
+- 1 medium onion
 - 1-2 garlic
 - 1 inch ginger
 - 1 cup chopped or crushed tomato
