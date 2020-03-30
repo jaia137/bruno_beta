@@ -31,11 +31,12 @@ directions:
 - add peppers, cook for some minutes
 - fry paneer cubes in separate pan, add paneers to sauce
 - add salt, lemon juice and fresh cilantro to finish
-- serve with rice or naan
+- serve with rice or naan, lemons
 
 ---
 
 chef bruno's pro tips:
+- pepper taste is very dominant and can be contrasted by spiciness and/or the acid from the lemon juice
 - cook the tomato base longer for favourable taste (sugo style) and texture
 - use soft tofu for a vegan variant
 
